@@ -1,6 +1,6 @@
 # Hi, I’m MohammadMahdi Salmani👋
 
-## 🙋🏻‍♂️ About Me
+## 🔍 About Me
 A Front-end Developer based in Tehran, IR. Who loves solving problems and building web applications, 
 with passion for learning new technologies. Skilled in my SKILLS.
 I began learning web development nearly four years ago. After I grasped the basics, I started learning 
@@ -65,6 +65,16 @@ also be a good example to show the skills in design and coding to the employer. 
 my own website and upload my projects there (You can also visit them here).\
 [Visit My Website](https://msas-mohammad.ir)
 
+## 📚 Education
+Diploma, Mathematics and Physics (Hatef High School, 2021)
+
+## 🎖 Achievement
+University Admission Test Rank: 274
+
+## 📞 Contact info
+##### Phone: +98 9101895272
+##### Email: msas.mohammad1382@yahoo.com
+##### Linkedin: https://www.linkedin.com/in/msas-mohammad
 
 
 &nbsp;
