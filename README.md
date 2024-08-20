@@ -9,14 +9,14 @@ day I try to learn more about my profession and I am trying to be better than I 
 
 
 ## 👅 Languages
-• Advance: JavaScript (Familiar with Node JS)
-• Intermediate: TypeScript
+• Advance: JavaScript (Familiar with Node JS)\
+• Intermediate: TypeScript\
 • Basic: PHP
 
 ## 🔨 Framework & Library
-•React JS
-•Redux Toolkit
-•Tailwind CSS
+•React JS\
+•Redux Toolkit\
+•Tailwind CSS\
 •AntD
 
 
@@ -28,10 +28,10 @@ share all my projects there.\
 
 
 ## 📚 Education
-**Hatef High School | 2021**
+**Hatef High School | 2021**\
 Diploma - Mathematics & Physics 
 
-**Islamic Azad University | 2022 - 2026**
+**Islamic Azad University | 2022 - 2026**\
 Bachelor of Computer Engineering - Software Engineering
 
 
