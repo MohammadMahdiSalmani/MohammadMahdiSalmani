@@ -1,11 +1,10 @@
 # Hi, I’m MohammadMahdi Salmani👋
 
 ## 🔍 About Me
-A Front-end Developer based in Tehran, IR. Who loves solving problems and building web applications, 
-with passion for learning new technologies. Skilled in my SKILLS.
-I began learning web development nearly four years ago. After I grasped the basics, I started learning 
-the PHP language. Finally, I figured out my favorite side. I continued client-side with React js. Every 
-day I try to learn more about my profession and I am trying to be better than I was yesterday.
+I'm a Front-end Developer based in Tehran, Iran, who's passionate about solving problems and creating amazing web applications.
+I love learning new technologies and have been on this exciting journey for about four years.
+Starting with the basics, I then delved into PHP and later focused on client-side development using React JS.
+Every day, I'm dedicated to expanding my skills and becoming better than I was yesterday.
 
 
 ## 👅 Languages
@@ -24,14 +23,14 @@ day I try to learn more about my profession and I am trying to be better than I 
 I believe that having a personal website is a great way to connect with your audience and demonstrate
 your design and coding skills to potential employers. That's why I've decided to create my website and
 share all my projects there.\
-[ Feel free to take a look.](https://msas-mohammad.ir)
+[ Take a look](https://msas-mohammad.ir)
 
 
 ## 📚 Education
-**Hatef High School | 2021**\
+**Hatef High School | 2022**\
 Diploma - Mathematics & Physics 
 
-**Islamic Azad University | 2022 - 2026**\
+**Islamic Azad University | 2022 - Present**\
 Bachelor of Computer Engineering - Software Engineering
 
 
@@ -40,8 +39,8 @@ University Admission Test Rank: 274
 
 
 ## 📞 Contact info
-Phone: (+98)910 189 5272
-Email: msas.mohammad1382@yahoo.com
+Phone: (+98)910 189 5272\
+Email: msas.mohammad1382@yahoo.com\
 Linkedin: https://www.linkedin.com/in/msas-mohammad
 
 
